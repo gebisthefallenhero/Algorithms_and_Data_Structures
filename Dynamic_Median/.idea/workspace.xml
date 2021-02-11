@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d49ee0ec-9560-46f4-8681-bca8a9c0b1e2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jTWtr5pVyPEO5nvJMbhLzrGJX7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DynamicMedian">
+    <configuration name="DynamicMedian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DynamicMedian" />
+      <module name="Dynamic_Median" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeftistHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeftistHeap" />
+      <module name="Dynamic_Median" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SkewHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SkewHeap" />
+      <module name="Dynamic_Median" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DynamicMedian" />
+        <item itemvalue="Application.SkewHeap" />
+        <item itemvalue="Application.LeftistHeap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d49ee0ec-9560-46f4-8681-bca8a9c0b1e2" name="Default Changelist" comment="" />
+      <created>1603828779880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603828779880</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="75" key="#Project_Structure" timestamp="1603829628098">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="75" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1603829628098" />
+    <state width="1537" height="274" key="GridCell.Tab.0.bottom" timestamp="1604341642261">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="274" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604341642261" />
+    <state width="1537" height="274" key="GridCell.Tab.0.center" timestamp="1604341642261">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="274" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604341642261" />
+    <state width="1537" height="274" key="GridCell.Tab.0.left" timestamp="1604341642261">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="274" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604341642261" />
+    <state width="1537" height="274" key="GridCell.Tab.0.right" timestamp="1604341642261">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="274" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604341642261" />
+    <state width="1537" height="270" key="GridCell.Tab.1.bottom" timestamp="1604109496795">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="270" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604109496795" />
+    <state width="1537" height="270" key="GridCell.Tab.1.center" timestamp="1604109496794">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="270" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1604109496794" />
+    <state width="1537" height="270" key="GridCell.Tab.1.left" timestamp="1604109496794">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="270" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1604109496794" />
+    <state width="1537" height="270" key="GridCell.Tab.1.right" timestamp="1604109496795">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="270" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1604109496795" />
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1605201792327">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1605201792327" />
+    <state x="209" y="40" key="new project wizard" timestamp="1605201839302">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="40" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1605201839302" />
+  </component>
+</project>
